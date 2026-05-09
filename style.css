@@ -10,7 +10,8 @@
     color: white;
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: space-between;
+    padding: 0 10px;
 }
 
 .nav-logo {
@@ -65,6 +66,7 @@
 .search-select {
     background-color: #f3f3f3;
     width: 50px;
+    height: 40px;
     text-align: center;
     border-top-left-radius: 4px;
     border-bottom-left-radius: 4px;
